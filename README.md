@@ -19,3 +19,4 @@ CS426L - Parallel and Distributed Computing Lab
 ## Assignment
 
 Assignment Number 2
+Update assignment progress documentation
